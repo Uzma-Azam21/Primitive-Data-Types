@@ -4,11 +4,11 @@
 
 // Class Assignment-1; 
 // Variables
-// A variable is a container thart stores a value.
+// A variable is a container that stores a value.
 // keywords of variable ( var, let , const ) 
 // 1. Var is a globally scoped while let and const are block scope.
-// 2. Var can be updated and re-declared within its scope
-// 3. Let can be updated butnot re-declared.
+// 2. Var can be updated and re-declared within its scope.
+// 3. Let can be updated but not re-declared.
 // 4. Const can neither be updated nor be re-declared.
 ``
 // Examples of primitive data types
